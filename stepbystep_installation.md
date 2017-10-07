@@ -99,13 +99,9 @@ Thats it!
 
 Everytime you install a new package, save your docker with CTRL P Q 
 
-and then docker commit <WHATEVER IS YOUR docker id> faiss_new 
+and then 
 
-
-
-
-
-
+docker commit <WHATEVER IS YOUR docker id> faiss_new 
 
 
 
