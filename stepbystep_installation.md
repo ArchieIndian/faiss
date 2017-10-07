@@ -89,14 +89,21 @@ _swigfaiss.so
 13. Go inside the work directory
 
 14. RUN your notebook
-jupyter notebook
+jupyter notebook --ip 0.0.0.0 --allow-root
 
 14. Inside the notebook write
 
 import faiss
 
-
 Thats it!
+
+Everytime you install a new package, save your docker with CTRL P Q 
+
+and then docker commit <WHATEVER IS YOUR docker id> faiss_new 
+
+
+
+
 
 
 
