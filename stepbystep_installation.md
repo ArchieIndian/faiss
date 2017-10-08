@@ -1,7 +1,7 @@
 
-[//]: # "**********************************************************"
-[//]: # "** INSTALL file for Faiss (Fair AI Similarity Search    **"
-[//]: # "**********************************************************"
+[//]: # "************************************************************************"
+[//]: # "** INSTALL using docker file for Faiss (Fair AI Similarity Search    **"
+[//]: # "************************************************************************"
 
 
 Docker instructions when you are not using GPU and want to use Jupyter notebook inside the faiss docker
